@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DeepYV
-- 👀 I’m interested in Backend Dev/Golang
-- 🌱 I’m currently learning Golang/C++/Ds/algorithm
+- 🌱  Wisdom is not a product of schooling but of the lifelong attempt to acquire it.
 
 <!---
 DeepYV/DeepYV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
