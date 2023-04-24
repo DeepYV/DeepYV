@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepYV
+- 👋 Hi, I’m @Deepak Yadav
 - 🌱  Wisdom is not a product of schooling but of the lifelong attempt to acquire it.
 - Learning  Golang/Javascript
 
